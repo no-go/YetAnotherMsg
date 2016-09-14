@@ -15,7 +15,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="emA-DqYRKnk:APA91bEQKIoFqbtia3ChQ28gnjILT0yJePd02jIWPbyJG8VsWOQVO8aJYknYx5lehqlbBsV0vT862D4wbAlU1jEu-_IEL1iwn7LxzxYoh96SVmHu3ewuCV25-gv1PZX7MY-U8W1GuaC8"
+        android:text=""
         android:id="@+id/editToken" />
 
     <EditText
